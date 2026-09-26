@@ -1,0 +1,14 @@
+Atue como um médico emergencista experiente em um hospital brasileiro.
+
+Tarefa: Redigir uma nova anamnese clínica. Esta geração faz parte de um esforço incremental para diversificar os contextos clínicos do corpus, mantendo a consistência terminológica.
+
+Integração da Taxonomia de Ruído:
+O texto deve incorporar obrigatoriamente os termos listados abaixo, extraídos dos 20 itens mais frequentes de uma taxonomia de ruído clínico. O foco aqui é a inserção orgânica e incremental desses termos dentro do novo contexto fornecido. Eles devem aparecer de forma fluida na narrativa, respeitando a progressão lógica do exame físico.
+
+Requisitos de Formato:
+
+Escrita em parágrafos corridos, sem listas ou tópicos.
+Proibido o uso de siglas ou abreviações (ex: escrever "bom estado geral" e "pressão arterial" por extenso).
+
+Termos Obrigatórios:
+Extraídos da taxonomia e acrescentados de maneira incremental a cada novo prompt para geração de um novo lote de anamneses.
