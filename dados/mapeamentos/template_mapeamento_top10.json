@@ -1,0 +1,90 @@
+{
+  "config": {
+    "top_n": 10,
+    "instrucao": "Preencha o valor de 'significado' com a palavra correta presente no vocabulário sintético."
+  },
+  "typos": {
+    "isofotoreagentes": {
+      "significado": "Fotorreagentes",
+      "count": 98
+    },
+    "irratacao": {
+      "significado": "Irritação",
+      "count": 57
+    },
+    "expansib": {
+      "significado": "Expansibilidade",
+      "count": 55
+    },
+    "urgicontinencia": {
+      "significado": "Urge-incontinência",
+      "count": 54
+    },
+    "blumbuergue": {
+      "significado": "Blumberg",
+      "count": 54
+    },
+    "fascies": {
+      "significado": "Fácies",
+      "count": 52
+    },
+    "normo": {
+      "significado": "Prefixo: normo-",
+      "count": 50
+    },
+    "menigea": {
+      "significado": "Meníngea",
+      "count": 48
+    },
+    "orofanrige": {
+      "significado": "Orofaringe",
+      "count": 45
+    },
+    "simmetrico": {
+      "significado": "Simétrico",
+      "count": 45
+    }
+  },
+  "abbreviations": {
+    "RA": {
+      "significado": "Ruídos Adventícios",
+      "count": 3216
+    },
+    "BEG": {
+      "significado": "Bom Estado Geral",
+      "count": 3340
+    },
+    "2T": {
+      "significado": "Dois Tempos",
+      "count": 3286
+    },
+    "ABD": {
+      "significado": "Abdome",
+      "count": 3117
+    },
+    "RCR": {
+      "significado": "Ruídos Cardíacos Regulares",
+      "count": 2768
+    },
+    "BNF": {
+      "significado": "Bulhas Normofonéticas",
+      "count": 2341
+    },
+    "MV": {
+      "significado": "Murmúrio Vesicular",
+      "count": 2264
+    },
+    "RHA": {
+      "significado": "Ruídos Hidroaéreos",
+      "count": 2260
+    },
+    "AP": {
+      "significado": "Ausculta Pulmonar",
+      "count": 2224
+    },
+    "ACV": {
+      "significado": "Ausculta Cardiovascular",
+      "count": 2199
+    }
+  }
+}

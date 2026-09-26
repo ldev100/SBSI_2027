@@ -1,0 +1,170 @@
+{
+  "config": {
+    "top_n": 20,
+    "instrucao": "Preencha o valor de 'significado' com a palavra correta presente no vocabulário sintético."
+  },
+  "typos": {
+    "isofotoreagentes": {
+      "significado": "Fotorreagentes",
+      "count": 98
+    },
+    "irratacao": {
+      "significado": "Irritação",
+      "count": 57
+    },
+    "expansib": {
+      "significado": "Expansibilidade",
+      "count": 55
+    },
+    "urgicontinencia": {
+      "significado": "Urge-incontinência",
+      "count": 54
+    },
+    "blumbuergue": {
+      "significado": "Blumberg",
+      "count": 54
+    },
+    "fascies": {
+      "significado": "Fácies",
+      "count": 52
+    },
+    "normo": {
+      "significado": "Prefixo: normo-",
+      "count": 50
+    },
+    "menigea": {
+      "significado": "Meníngea",
+      "count": 48
+    },
+    "orofanrige": {
+      "significado": "Orofaringe",
+      "count": 45
+    },
+    "simmetrico": {
+      "significado": "Simétrico",
+      "count": 45
+    },
+    "refre": {
+      "significado": "refere",
+      "count": 44
+    },
+    "corisa": {
+      "significado": "coriza",
+      "count": 44
+    },
+    "normofornetica": {
+      "significado": "normofonéticas",
+      "count": 43
+    },
+    "exudato": {
+      "significado": "exsudato",
+      "count": 41
+    },
+    "aprox": {
+      "significado": "aproximadamente",
+      "count": 41
+    },
+    "espontaeamente": {
+      "significado": "espontaneamente",
+      "count": 41
+    },
+    "amidalas": {
+      "significado": "amígdalas",
+      "count": 39
+    },
+    "perveis": {
+      "significado": "pérvias",
+      "count": 37
+    },
+    "orientadoa": {
+      "significado": "orientado",
+      "count": 31
+    },
+    "hipermia": {
+      "significado": "hiperemia",
+      "count": 30
+    }
+  },
+  "abbreviations": {
+    "RA": {
+      "significado": "Ruídos Adventícios",
+      "count": 3216
+    },
+    "BEG": {
+      "significado": "Bom Estado Geral",
+      "count": 3340
+    },
+    "2T": {
+      "significado": "Dois Tempos",
+      "count": 3286
+    },
+    "ABD": {
+      "significado": "Abdome",
+      "count": 3117
+    },
+    "RCR": {
+      "significado": "Ruídos Cardíacos Regulares",
+      "count": 2768
+    },
+    "BNF": {
+      "significado": "Bulhas Normofonéticas",
+      "count": 2341
+    },
+    "MV": {
+      "significado": "Murmúrio Vesicular",
+      "count": 2264
+    },
+    "RHA": {
+      "significado": "Ruídos Hidroaéreos",
+      "count": 2260
+    },
+    "AP": {
+      "significado": "Ausculta Pulmonar",
+      "count": 2224
+    },
+    "ACV": {
+      "significado": "Ausculta Cardiovascular",
+      "count": 2199
+    },
+    "AC": {
+      "significado": "Aparelho Cardiovascular",
+      "count": 1806
+    },
+    "VMG": {
+      "significado": "Visceromegalias",
+      "count": 1453
+    },
+    "EXT": {
+      "significado": "Extremidades",
+      "count": 1338
+    },
+    "AAA": {
+      "significado": "Aparelho Abdominal",
+      "count": 1042
+    },
+    "MVBD": {
+      "significado": "Murmúrio Vesicular Bem Distribuído",
+      "count": 855
+    },
+    "MVU": {
+      "significado": "Murmúrio Vesicular Universal",
+      "count": 830
+    },
+    "TEC": {
+      "significado": "Tempo de Enchimento Capilar",
+      "count": 780
+    },
+    "SS": {
+      "significado": "Sem Sopros",
+      "count": 748
+    },
+    "EGB": {
+      "significado": "Estado Geral Bom",
+      "count": 718
+    },
+    "HD": {
+      "significado": "Hipótese Diagnóstica",
+      "count": 663
+    }
+  }
+}
