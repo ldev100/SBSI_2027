@@ -215,15 +215,3 @@ for i, word in enumerate(words):
 ## License
 
 Code: MIT License. Synthetic corpus and mapping tables: CC BY 4.0. The fine-tuned models derive from BERTimbau and BioBERTpt and follow the licenses of their base models.
-
-## Citation
-
-```bibtex
-@misc{anonymous2026epni,
-  title  = {Empirical Probabilistic Noise Injection for {Brazilian} Clinical Anamnesis:
-            Learning Abbreviation Detection from Synthetic Text},
-  author = {Anonymous},
-  year   = {2026},
-  note   = {Under double-blind review}
-}
-```
